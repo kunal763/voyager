@@ -1,4 +1,7 @@
 {
+  "scripts":{
+    "start":"deno run -A app.ts"
+  },
   "dependencies": {
     "axios": "^1.5.1",
     "chatgpt": "^5.2.5",
